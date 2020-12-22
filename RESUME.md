@@ -63,7 +63,7 @@
 ### 5. 프로젝트(Projects)
 | 프로젝트 | 프로젝트 내용 | 활동기간 |
 | :---         |     :---:      |     :---:      |
-| 지도 공유 앱 | Firebase와 Naver 지도 API를 이용한 지도 애플리케이션 | 2020.03 ~ 2020.06  |
+| 지도 공유 앱 | Firebase와 Naver 지도 API를 이용한 지도 애플리케이션 </br> https://github.com/2020CapstoneDesign-Demap/DeMap | 2020.03 ~ 2020.06  |
 
 
 
