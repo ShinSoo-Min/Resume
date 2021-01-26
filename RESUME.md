@@ -21,18 +21,18 @@
 
 3.1  기초지식(Basics)
 
-* Programming Languages: C, C++, **HTML**, **CSS**, **Java**, **JavaScript**, Kotlin
+* Programming Languages: C, C++, **HTML**, CSS, **Java**, **JavaScript**, Kotlin
 * Operating Systems: Linux
-* IDE(**Eclipse**, Visual Studio, **Android Studio**)
+* IDE(**Eclipse**, **IntelliJ IDEA**, Visual Studio, **Android Studio**)
 
 3.2 웹 개발(Web Development)
-* Java 개발 프레임워크(**MVC, Spring**)
-* DB 응용 개발(Oracle, **MySQL**)
-* Server(Apache web server, **Tomcat**, **AWS**)
+* Java 개발 프레임워크(**Spring MVC**, Spring Boot)
+* DB 응용 개발(Oracle, **MySQL**, PostgreSQL)
+* Server(Apache web server, **Tomcat**, **AWS(Amazon EC2)**)
 
 3.3 안드로이드 개발(Android Development)
-* Java, Kotlin
-* Firebase
+* **Java**, Kotlin
+* **Firebase**
 
 3.4 학부 수강 과목(Course)
 * ( 언어 ) C(컴퓨터프로그래밍1, 컴퓨터프로그래밍2), C++(객체지향언어1), JAVA(객체지향언어2), Kotlin(고급모바일프로그래밍)
@@ -61,6 +61,7 @@
 
 
 ### 5. 프로젝트(Projects)
+
 | 프로젝트 | 프로젝트 내용 | 활동기간 |
 | :---         |     :---:      |     :---:      |
 | 지도 공유 앱 | Firebase와 Naver 지도 API를 이용한 지도 애플리케이션 </br> https://github.com/2020CapstoneDesign-Demap/DeMap | 2020.03 ~ 2020.06  |
@@ -68,6 +69,7 @@
 
 
 ### 6. 연락처(Contact)
+
 github: https://github.com/ShinSoo-Min
 
 email: pmes33@naver.com
